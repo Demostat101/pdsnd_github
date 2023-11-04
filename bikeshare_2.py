@@ -30,6 +30,7 @@ def get_filters():
             continue
 
     # get user input for month (all, january, february, ... , june)
+    # Let user know they can select all months or explore each month
     month = ""    
     month_list = ("all", "january", "february", "march", "april", "may", "june")    
     while month not in month_list:   
