@@ -10,8 +10,8 @@ Explore US Bikeshare Data
 This project helps users view cities with their descriptive statistics.
 
 ### Files used
-Include the files used
+chicago.csv, new york city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
